@@ -6,6 +6,6 @@ class SayHello
 {
 	public static function hello()
 	{
-		return 'Hello World, Composer !';
+		return 'Hello World !';
 	}
 }
